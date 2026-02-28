@@ -186,5 +186,4 @@ Feel free to fork this repo and extend it! Ideas:
 - Add HTTPS with Let's Encrypt
 
 ---
-
 *Built as part of a Cloud Computing & DevOps skills lab.*
